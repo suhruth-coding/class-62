@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+}
+
+.line {
+    width: 70px;
+    height: 10px;
+    background-color: yellow;
+    margin: 8px auto;
+}
+
+#Apps {
+    background: linear-gradient(red, orangered, darkred, orangered, red);
+}
+
+#Games {
+    background: linear-gradient(darkblue, lightblue, darkblue);
+}
+
+#Chatbot {
+    background: linear-gradient(green, aqua, green)
+}
+
+img {
+    transition: transform 0.2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#mycarousel {
+    background-color: blue;
+}
+
+#mycarousel img {
+    margin: 50px;
+}
+p{
+    font-size:50px;
+}
